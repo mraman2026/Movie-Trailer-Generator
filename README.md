@@ -3,7 +3,7 @@
 
 
 
-Core Functionality:
+#Core Functionality:
 
 Movie Details Input:
 Users provide the Movie Title (in this case, "Double Agent").
